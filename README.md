@@ -1,5 +1,6 @@
 
 <h2>Usage</h2>
+
 ```
 python train.py --recommender fusion 
 ```
@@ -19,4 +20,4 @@ python train.py --recommender fusion
 ```
 python train.py --recommender fusion --divide false
 ```
-将top10推荐结果输出到data文件夹下
+--divide 将top10推荐结果输出到data文件夹下
