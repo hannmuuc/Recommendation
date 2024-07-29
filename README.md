@@ -1,3 +1,4 @@
+实现了常见的推荐系统算法，如:LightGCN、SelfCF、ItemCf等
 
 <h2>Usage</h2>
 
